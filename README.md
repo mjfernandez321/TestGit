@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael John Fernandez</h1>
-<h3 align="center">An aspiring Data Engineer / Cloud Engineer.</h3>
+<h3 align="center">An aspiring Software Engineer.</h3>
 
 - 🌱 I’m currently learning **SQL, Tableau, Python.**
 
